@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------------------------------------
+
+ROMS Document Handover
+
+--------------------------------------------------------------------------------------------------------------
+Business Scope - 
+- Update the database to support the merger of Peer Esteem and Contribution types into Research Contributions.
+- Create a new SQL view to allow previous data to show as merged with Research Contributions. 
+- The user interface – merging tabs view, and created example templates for future upgrades.
+- Maintain adherence to Intuto’s coding standards.
+
+--------------------------------------------------------------------------------------------------------------
+Software used and version no. 
+- Microsoft Visual Studio Enterprise 2015 - Version: 4.6
+- Microsoft SQL Server 2014 Management Studio 
+- GitLab
+- GitHub
+- VMware
+
+--------------------------------------------------------------------------------------------------------------
+Hardware used
+- Laptops
+- Whitireia Servers
+
+--------------------------------------------------------------------------------------------------------------
+Future Recommendation
+- Change staff roles to be more useful and flexible.
+- Update the report function to provide more accurate and useable results.
+- Work on known existing bugs.
+- Improve security.
+- Make User Interface more user friendly.
